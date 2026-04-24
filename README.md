@@ -18,7 +18,7 @@ The treebank consists of isolated sentences drawn from natural source texts and 
 
 # Changelog
 
-* 2025-MM-DD v1.0
+* 2025-04-24 v1.0
   * First release in UD
 
 <pre>
