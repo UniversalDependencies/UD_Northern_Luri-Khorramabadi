@@ -16,9 +16,15 @@ The treebank consists of isolated sentences drawn from natural source texts and 
 
 # Acknowledgments
 
+The treebank was annotated by Hiwa Asadpour, Zahra Zargarani and Sahar Shahjalaledin. Supervision and revision by Hiwa Asadpour and Luigi Talamo.
+
+## References
+
+In preparation
+
 # Changelog
 
-* 2025-04-24 v1.0
+* 2026-11-15 v2.18
   * First release in UD
 
 <pre>
@@ -33,7 +39,7 @@ UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Asadpour, Hiwa; Verkerk, Annemarie; Zargarani, Zahra; Shahjalaledin, Sahar
+Contributors: Asadpour, Hiwa; Verkerk, Annemarie; Zargarani, Zahra; Shahjalaledin, Sahar; Talamo, Luigi
 Contributing: here
 Contact: asadpourhiwa@gmail.com
 ===============================================================================

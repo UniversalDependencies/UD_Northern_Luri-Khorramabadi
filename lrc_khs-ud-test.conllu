@@ -1,0 +1,1083 @@
+# sent_id = 1
+# text = Doxdér kočka mo hâ dé l̀al̀u .
+# translation = Our little girl is in the cradle.
+# original_text = .دختر کوچکمان در گهواره است
+1	Doxdér	Doxdér	NOUN	_	Number=Sing	4	obj	_	_
+2	kočka	kočka	ADJ	_	Degree=Pos	3	amod	_	_
+3	mo	mo	PRON	_	Number=Plur|Person=1|PronType=Prs	1	nmod	_	_
+4	hâ	hâ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	dé	dé	ADP	_	ExtPos=ADP	6	case	_	_
+6	l̀al̀u	l̀al̀u	NOUN	_	Definite=Spec|Number=Sing	4	iobj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 2
+# translation = The kids ate those apples.
+# original_text = .بچه‌ها آن سیب‌ها را خوردند
+# text = Bačo sēviyâka né harden .
+1	Bačo	bača	NOUN	_	Number=Plur	4	nsubj	_	_
+2	sēviyâka	sēv	NOUN	_	Definite=Def|Number=Plur	4	obj	_	_
+3	né	né	PART	_	ExtPos=ADP	2	case	_	_
+4	harden	harden	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Inf|Voice=Act	0	root	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 3
+# translation = All the apples were eaten.
+# original_text = .همه سیب ها خورده شدند
+# text = Sēviyâka gérd harésén .
+1	Sēviyâka	Sēv	NOUN	_	Definite=Def|Number=Plur	3	nsubj:pass	_	_
+2	gérd	gérd	DET	_	PronType=Tot	1	det	_	_
+3	harésén	harden	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 4
+# translation = Mary was crying bitterly.
+# original_text = .مریم زار زار گریه می کرد
+# text = Maryam ruwâru mēgérēvés .
+1	Maryam	Maryam	PROPN	_	Number=Sing	3	nsubj	_	_
+2	ruwâru	ruwâru	ADV	_	_	3	advmod	_	_
+3	mēgérēvés	gērestan	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 5
+# translation = When Ali had come to our house, I had gone to the market.
+# original_text = .زمانی که علی خانه ما آمده بود, من بازار رفته بودم
+# text = Heké Ali omâyi hona =mo mé rātimi vé bâzâr .
+1	Heké	Heké	ADV	_	_	3	advmod	_	_
+2	Ali	Ali	PROPN	_	_	3	nsubj	_	_
+3	omâyi	āmadan	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	hona	hona	NOUN	_	Number=Sing	3	obl	_	_
+5	=mo	=mo	PRON	_	Number=Plur|Person=1|PronType=Prs	4	nmod:poss	_	_
+6	mé	mé	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+7	rātimi	rāftan	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	_
+8	vé	vé	ADP	_	ExtPos=ADP	9	case	_	_
+9	bâzâr	bâzâr	NOUN	_	Number=Sing	7	iobj	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 6
+# translation = Are you also in the habit of exercising?
+# original_text = تو هم به ورزش کردن عادت داری؟
+# text = Tü am hukâra varzéš =i ?
+1	Tü	tü	PRON	_	Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
+2	am	am	ADV	_	_	5	advmod	_	_
+3	hukâra	hukār	ADJ	_	Degree=Pos	5	acl:lvc	_	_
+4	varzéš	varzéš	NOUN	_	Number=Sing	5	nmod	_	_
+5	=i	=i	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	?	?	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 7
+# translation = Our neighbor's son broke the glass.
+# original_text = .پسر همسایه‌مان شیشه را شکست
+# text = Koré homsâ =mo šiša =né éškénâ .
+1	Koré	kor	NOUN	_	Number=Sing	6	nsubj	_	_
+2	homsâ	homsâ	NOUN	_	Number=Sing	1	nmod	_	_
+3	=mo	=mo	PRON	_	Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	_
+4	šiša	šiša	NOUN	_	Number=Sing	6	obj	_	_
+5	=né	=né	ADP	_	ExtPos=ADP	4	case	_	_
+6	éškénâ	éškēnadan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 8
+# translation = You've made me wait, I've been here since five, why did you come so late?
+# original_text = معطلم کرده‌ای, از پنج تا الان اینجا هستم, چرا اینقدر دیر آمدی؟
+# text = Ańg̊élât =ém kérdia , dé panj tâ alân hisém ičé , sēqa dēr omâyi ?
+1	Ańg̊élât	Ańg̊élât	ADV	_	_	3	compound:lvc	_	_
+2	=ém	=ém	PRON	_	Number=Sing|Person=1|PronType=Prs	3	obj	_	_
+3	kérdia	kérdan	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	14	parataxis	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	dé	dé	ADP	_	ExtPos=ADP	6	case	_	_
+6	panj	panj	NUM	_	NumType=Card	8	nummod	_	_
+7	tâ	tâ	ADP	_	ExtPos=ADP	8	case	_	_
+8	alân	alân	ADV	_	Degree=Pos	9	obl	_	_
+9	hisém	būdan	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	14	parataxis	_	_
+10	ičé	ičé	ADV	_	Degree=Pos	9	advmod	_	_
+11	,	,	PUNCT	_	_	9	punct	_	_
+12	sēqa	sēqa	ADV	_	Degree=Pos	14	advmod	_	_
+13	dēr	dēr	ADV	_	Degree=Pos	14	advmod	_	_
+14	omâyi	āmadan	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+15	?	?	PUNCT	_	_	14	punct	_	_
+
+# sent_id = 9
+# translation = That blue-eyed child is my daughter's child.
+# original_text = .آن چشم آبی نوهٔ دختریِ من است
+# text = Ū čaš kēyu doxdérzâ =m =a .
+1	Ū	Ū	DET	_	PronType=Dem	4	det	_	_
+2	čaš	čaš	NOUN	_	Number=Sing	4	nmod	_	_
+3	kēyu	kēy	ADJ	_	Degree=Pos	2	amod	_	_
+4	doxdérzâ	doxdérzâ	NOUN	_	Number=Sing	6	nsubj	_	_
+5	=m	=m	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	_
+6	=a	būdan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 10
+# translation = (He/She) talks incessantly (without a breath) and doesn’t give anyone a turn.
+# original_text = .مدام/ یک نفس حرف می‌زند و نوبت به هیچکس نمی‌دهد
+# text = Yeéna čéna mēzéna ü ge vé hiška némēya .
+1	Yeéna	Yeéna	ADV	_	_	3	advmod	_	_
+2	čéna	čéna	NOUN	_	Number=Sing	3	nsubj	_	_
+3	mēzéna	zādan	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	ü	ü	CCONJ	_	_	8	cc	_	_
+5	ge	ge	NOUN	_	Number=Sing	8	compound:lvc	_	_
+6	vé	vé	ADP	_	ExtPos=ADP	7	case	_	_
+7	hiška	hiška	PRON	_	Poss=Yes|PronType=Ind	8	iobj	_	_
+8	némēya	dādan	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 11
+# translation = I like that you don’t discriminate among your children.
+# original_text = .خوشم می‌آید که بین فرزندانت تبعیض قائل نمی‌شوی
+# text = Xoš =ém mēyâ ké mēna bačon =ét düčaški némēki .
+1	Xoš	Xoš	NOUN	_	_	3	compound	_	_
+2	=ém	=ém	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	1	nmod:poss	_	_
+3	mēyâ	āmadan	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	ké	ké	SCONJ	_	_	9	mark	_	_
+5	mēna	mēna	ADP	_	ExtPos=ADP	6	case	_	_
+6	bačon	bačon	NOUN	_	Number=Plur	9	obl	_	_
+7	=ét	=ét	PRON	_	Number=Sing|Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	_	_
+8	düčaški	dūčāšk	NOUN	_	Number=Sing	9	compound:lvc	_	_
+9	némēki	kardan	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 12
+# translation = There wasn’t a single rial in my pocket.
+# original_text = .یک ریال پول توی جیبم نبود
+# text = Yé g̀éro pil dé jiv =ém névi .
+1	Yé	Yé	NUM	_	NumType=Card	2	nummod	_	_
+2	g̀éro	g̀éro	NOUN	_	Number=Sing	3	nmod	_	_
+3	pil	pil	NOUN	_	_	7	nsubj	_	_
+4	dé	dé	ADP	_	ExtPos=ADP	5	case	_	_
+5	jiv	jiv	NOUN	_	Number=Sing	7	obl	_	_
+6	=ém	=ém	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	_
+7	névi	būdan	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 13
+# gloss = Mohammad 	and 	son-PL-POSS.3PL be.PRS.3PL 	on-EZ 	farm 	have.PRS.3PL 	weed 	IPFV-do-PRS.3PL
+# translation = Mohammad and his sons are on the farm and are weeding.
+# original_text = محمد و پسرهایش سر زمین هستند و دارند وجین می‌کنند.
+# text = Moham ü koryâ š hân sar é zémi , hâ âlâ mēkan .
+1	Moham	Mohammad	PROPN	_	Number=Sing	5	nsubj	_	_
+2	ü	ü	CCONJ	_	_	3	cc	_	_
+3	koryâ	kor	NOUN	_	Number=Plur	1	conj	_	_
+4	š	š	PRON	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	_	_
+5	hân	būdan	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	sar	sar	NOUN	_	Number=Sing	5	obl	_	_
+7	é	é	ADP	_	ExtPos=ADP	8	case	_	_
+8	zémi	zémi	NOUN	_	Number=Sing	6	nmod	_	_
+9	,	,	PUNCT	_	_	5	punct	_	_
+10	hâ	būdan	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	aux	_	_
+11	âlâ	âlâ	NOUN	_	Number=Sing	12	compound:lvc	_	_
+12	mēkan	kandan	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	parataxis	_	_
+13	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 14
+# translation = It is raining continuously.
+# original_text = .یکریز (پیوسته و مداوم) باران می‌آید (می‌بارد)
+# text = Yeméjü bâro mēyâ .
+1	Yeméjü	yemējü	ADV	_	Degree=Pos	3	advmod	_	_
+2	bâro	bāro	NOUN	_	Number=Sing	3	nsubj	_	_
+3	mēyâ	āmadan	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 15
+# translation = I will go on a trip next summer.
+# original_text = .تابستان دیگر به سفر خواهم رفت
+# text = Tâwésonē hani mēhâm ruém mosâférat .
+1	Tâwésonē	tāwēson	NOUN	_	Number=Sing	4	obl	_	_
+2	hani	hani	ADJ	_	Degree=Pos	1	amod	_	_
+3	mēhâm	xāstan	AUX	_	Aspect=Prosp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	_
+4	ruém	raftan	VERB	_	Aspect=Prosp|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+5	mosâférat	mosāferat	NOUN	_	Number=Sing	4	obl	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 16
+# translation = The day after tomorrow, the kids are coming to our place.
+# original_text = پس فردا بچه‌ها می‌آیند پیشمان.
+# text = Düso bačo mēyân te =mo .
+1	Düso	Düso	ADV	_	_	3	advmod	_	_
+2	bačo	bača	NOUN	_	Number=Plur	3	nsubj	_	_
+3	mēyân	āmadan	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	te	te	ADP	_	ExtPos=ADP	5	case	_	_
+5	=mo	=mo	PRON	_	Number=Plur|Person=1|Poss=Yes|PronType=Prs	3	obl	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 17
+# translation = Why are you smearing yourself with mud?
+# original_text = چرا خودت را گِلی می‌کنی (به گل آلوده می‌کنی)؟
+# text = Sičē xot =ē mēpélkéni dé xarra ?
+1	Sičē	sičē	ADV	_	_	4	advmod	_	_
+2	xot	xot	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	4	obj	_	_
+3	=ē	=ē	PART	_	_	2	case	_	_
+4	mēpélkéni	pēlkēndan	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	dé	dé	ADP	_	ExtPos=ADP	6	case	_	_
+6	xarra	xarra	NOUN	_	Number=Sing	4	obl	_	_
+7	?	?	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 18
+# translation = My little finger is swollen.
+# original_text = .انگشت کوچکم ورم کرده است
+# text = Kéĺéktita =m pénmésa .
+1	Kéĺéktita	Kéĺéktita	NOUN	_	Number=Sing	3	nsubj	_	_
+2	=m	=m	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	1	nmod:poss	_	_
+3	pénmésa	pēnmēsan	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 19
+# translation = As soon as Majid turned into the alley, the creditors rushed at him.
+# original_text = .تا مجید توی کوچه پیچید, طلبکارها ریختند سرش
+# text = Tâ Majid pēčés dé kiča , talabkâryâ réxtésén sar =ēš .
+1	Tâ	tā	SCONJ	_	_	3	mark	_	_
+2	Majid	Majid	PROPN	_	Number=Sing	3	nsubj	_	_
+3	pēčés	pēčidan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	_	_
+4	dé	dé	ADP	_	ExtPos=ADP	5	case	_	_
+5	kiča	kiča	NOUN	_	Number=Sing	3	obl	_	_
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	talabkâryâ	talabkār	NOUN	_	Number=Plur	8	nsubj	_	_
+8	réxtésén	rēxtan	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9	sar	sar	NOUN	_	Number=Sing	8	obl	_	_
+10	=ēš	=ēš	PRON	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	_	_
+11	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 20
+# translation = (I hope) this year is the happiest of all the years for you!
+# original_text = !(امیدوارم) امسال از همه سال‌ها خوشتر باشی
+# text = Ēmsâl dé hama sâl xoš-tér =ēt bâ !
+1	Ēmsâl	ēmsâl	NOUN	_	Number=Sing	5	nsubj	_	_
+2	dé	dé	ADP	_	ExtPos=ADP	4	case	_	_
+3	hama	hama	DET	_	PronType=Tot	4	det	_	_
+4	sâl	sâl	NOUN	_	Number=Plur	5	obl	_	_
+5	xoš-tér	xoš	ADJ	_	Degree=Cmp	0	root	_	_
+6	=ēt	=ēt	PRON	_	Number=Sing|Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	_
+7	bâ	būdan	AUX	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
+8	!	!	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 21
+# translation = After the game, the kids got into a scuffle and fought.
+# original_text = .بعد از بازی بچه‌ها با هم گلاویز شدند و جنگشان شد (دعوا کردند)
+# text = Démâ bazi bačo ratén dé gēžé yak ü biyén vé jang̊ .
+1	Démâ	dēmâ	ADP	_	ExtPos=ADP	2	case	_	_
+2	bazi	bazi	NOUN	_	Number=Sing	4	obl	_	_
+3	bačo	bača	NOUN	_	Number=Plur	4	nsubj	_	_
+4	ratén	raftan	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	dé	dé	ADP	_	ExtPos=ADP	6	case	_	_
+6	gēžé	gēž	NOUN	_	Number=Sing	4	compound:lvc	_	_
+7	yak	yak	ADV	_	_	4	advmod	_	_
+8	ü	ü	CCONJ	_	_	9	cc	_	_
+9	biyén	šodan- biyâdan / biyân	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
+10	vé	vė	ADP	_	ExtPos=ADP	11	case	_	_
+11	jang̊	jang	NOUN	_	Number=Sing	9	compound:lvc	_	_
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 22
+# translation = I've been hustling all day today, and I'm very tired.
+# original_text = .امروز خیلی دوندگی داشته‌ام و خیلی خسته‌ام
+# text = Ēmruz halgé zēyâdē zama ü xelē šakat =ēm .
+1	Ēmruz	ēmrūz	ADV	_	_	4	advmod	_	_
+2	halgé	halg	NOUN	_	Number=Sing	4	obj	_	_
+3	zēyâdē	zēyād	ADJ	_	Degree=Pos	2	amod	_	_
+4	zama	zadan	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	ü	ü	CCONJ	_	_	7	cc	_	_
+6	xelē	xelē	ADV	_	_	7	advmod	_	_
+7	šakat	šakat	ADJ	_	Degree=Pos	4	conj	_	_
+8	=ēm	=ēm	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|PronType=Prs|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	_
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 23
+# translation = Let me sit down for a few minutes and catch my breath!
+# original_text = !بگذار چند دقیقه‌ای بنشینم و نفسی تازه کنم
+# text = Beyĺ gérē bašiném éneē bir bakém !
+1	Beyĺ	gozāštan	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
+2	gérē	gēr	NOUN	_	Number=Plur	3	obl	_	_
+3	bašiném	neštan	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+4	éneē	ēn	NOUN	_	Number=Sing	5	nmod	_	_
+5	bir	bir	AUX	_	Number=Sing	6	compound:lvc	_	_
+6	bakém	kardan	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	3	conj	_	_
+7	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 24
+# translation = My mother was a skilled and capable homemaker.
+# original_text = .مادرم زن کدبانو و توانمندی بود
+# text = Dââ =m zané keyno ü dasélâtdârē bi .
+1	Dââ	Dââ	NOUN	_	Number=Sing	7	nsubj	_	_
+2	=m	=m	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	1	nmod:poss	_	_
+3	zané	zan	NOUN	_	Number=Sing	7	xcomp	_	_
+4	keyno	keyno	ADJ	_	Degree=Pos	3	amod	_	_
+5	ü	ü	CCONJ	_	_	6	cc	_	_
+6	dasélâtdârē	dasēlâtdār	ADJ	_	Degree=Pos	4	conj	_	_
+7	bi	būdan	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 25
+# translation = Be careful with this child!
+# original_text = !مواظب این بچه باش
+# text = Virdâré i bača bâ !
+1	Virdâré	virdār	ADJ	_	Degree=Pos	4	xcomp	_	_
+2	i	i	DET	_	PronType=Dem	3	det	_	_
+3	bača	bača	NOUN	_	Number=Sing	1	nmod	_	_
+4	bâ	būdan	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
+5	!	!	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 26
+# translation = Make sure (the child) doesn't suddenly fall down.
+# original_text = .حواست باشد که (بچه) ناگهان زمین نخورد
+# text = Havâs =et bua nökom nagéĺya .
+1	Havâs	havâs	NOUN	_	Number=Sing	3	nsubj	_	_
+2	=et	=et	PRON	_	Number=Sing|Person=2|Poss=Yes|PronType=Prs	1	nmod:poss	_	_
+3	bua	būdan	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	_
+4	nökom	nökom	ADV	_	_	5	advmod	_	_
+5	nagéĺya	gêlan	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	0	root	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 27
+# translation = The wound from a stick heals, but the effect of words does not.
+# original_text = .جای ضربهٔ چوب خوب می‌شود, (اما) اثر کنایه و زخم زبان خوب نمی‌شود
+# text = Jâ ču âzâ muwa , jâ harf âzâ némuwa .
+1	Jâ	jâ	NOUN	_	Number=Sing	4	nsubj	_	_
+2	ču	ču	NOUN	_	Number=Sing	1	nmod	_	_
+3	âzâ	âzâ	ADJ	_	Degree=Pos	2	amod	_	_
+4	muwa	muwnan	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	jâ	jâ	NOUN	_	Number=Sing	9	nsubj	_	_
+7	harf	harf	NOUN	_	Number=Sing	6	nmod	_	_
+8	âzâ	âzâ	ADJ	_	Degree=Pos	7	amod	_	_
+9	némuwa	muwnan	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	4	parataxis	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 28
+# gloss = time=EZ		prayer=be.PRS.COP.3SG
+# translation = It is prayer time.
+# original_text = .وقت نماز است
+# text = Mösém =é némâz =a .
+1	Mösém	Mösém	NOUN	_	Number=Sing	4	nsubj	_	_
+2	=é	=é	PRON	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	nmod:poss	_	_
+3	némâz	némâz	NOUN	_	Number=Sing	4	xcomp	_	_
+4	=a	būdan	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 29
+# translation = If he has dropped the phone in water, it’s already fried.
+# original_text = .اگر موبایل را در آب انداخته باشد, دیگر سوخته است
+# text = Agar mobilé vanua dé aw , da soxta .
+1	Agar	agar	SCONJ	_	_	3	mark	_	_
+2	mobilé	mobil	NOUN	_	Number=Sing	3	obj	_	_
+3	vanua	andāxtan	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	_	_
+4	dé	dé	ADP	_	ExtPos=ADP	5	case	_	_
+5	aw	aw	NOUN	_	Number=Sing	3	obl	_	_
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	da	da	ADV	_	_	8	advmod	_	_
+8	soxta	soxtan	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 30
+# text = Vâ titâlbâziye Farhâd hama biyén dé xana .
+# gloss = with 	clown-play-EZ 	Farhâd 	all	be-EPEN-PST-3PL	in	laugh
+# translation = Everyone laughed at Farhâd's clowning.
+# original_text = .با دلقک‌بازیِ فرهاد همه خندیدند
+1	Vâ	vâ	ADP	_	ExtPos=ADP	2	case	_	_
+2	titâlbâziye	titâlbâzi	NOUN	_	Number=Sing	5	obl	_	_
+3	Farhâd	Farhâd	PROPN	_	Number=Sing	2	nmod:poss	_	_
+4	hama	hama	PRON	_	PronType=Tot	5	nsubj	_	_
+5	biyén	šodan- biyâdan / biyân	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	dé	dé	ADP	_	ExtPos=ADP	7	case	_	_
+7	xana	xana	NOUN	_	Number=Sing	5	compound:lvc	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 31
+# text = beim =mo bēza bérénjé pili saré teyiža mēka .
+# gloss = daughter-in-law-POSS.1PL 	pregnancy.cravings 	rice-EZ 	uncooked 	head-EZ 	strainer	IPFV-do.PRS.3SG
+# translation = Our daughter-in-law is craving undercooked rice on the strainer.
+# original_text = .عروسمان ویارِ برنج دَم‌نکشیدهٔ سرِ صافی را دارد
+1	beim	beim	NOUN	_	Number=Sing	8	nsubj	_	_
+2	=mo	=mo	PRON	_	Number=Plur|Person=1|Poss=Yes|PronType=Prs	1	nmod:poss	_	_
+3	bēza	bēza	NOUN	_	Number=Sing	8	obj	_	_
+4	bérénjé	bērēnj	NOUN	_	Number=Sing	3	nmod	_	_
+5	pili	pili	ADJ	_	Degree=Pos	4	amod	_	_
+6	saré	sar	NOUN	_	Number=Sing	4	nmod	_	_
+7	teyiža	teyža	NOUN	_	Number=Sing	6	nmod:poss	_	_
+8	mēka	kardan	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 32
+# text = sang =yēné ké némētoni vérdâri , baši vé sāya =š .
+# gloss = stone-ACC 	that 	can-NEG-IPFV-PRS-2SG 	remove-SUBJ-2SG		sit-IMP-2SG 	to	shadow-POSS.3SG
+# translation = If you can't remove the stone from your path, sit under its shade!
+# original_text = !سنگی را که نمی‌توانی از سرِ راه برداری, به سایه‌اش بنشین
+1	sang	sang	NOUN	_	Number=Sing	5	obj	_	_
+2	=yēné	=yēné	ADP	_	ExtPos=ADP	1	case	_	_
+3	ké	ké	SCONJ	_	_	4	mark	_	_
+4	némētoni	tavānestan	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	_
+5	vérdâri	bardāštan	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	baši	nešastan	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
+8	vé	vè	ADP	_	ExtPos=ADP	9	case	_	_
+9	sāya	sāya	NOUN	_	Number=Sing	7	obl	_	_
+10	=š	=š	PRON	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	_	_
+11	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 33
+# text = Rula zi vâ bēyâ rem̄o !
+# gloss = dear-child 	quickly		be-IMP-2SG 	come-IMP-2SG 	go-SBJV-1PL
+# translation = Quick, my dear child — come, let’s go!
+# original_text = !فرزند عزیزم زود باش بیا برویم
+1	Rula	rula	NOUN	_	Number=Sing	3	vocative	_	_
+2	zi	zi	ADV	_	_	3	advmod	_	_
+3	vâ	būdan	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
+4	bēyâ	āmadan	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	3	parataxis	_	_
+5	rem̄o	raftan	VERB	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	4	conj	_	_
+6	!	!	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 34
+# text = Mé hani énâštâ nakérdéma .
+# gloss = I.1SG 	yet 	breakfast 	NEG-do-PST.PERF-1SG
+# translation = I haven't had breakfast yet.
+# original_text = .من هنوز صبحانه نخورده‌ام
+1	Mé	mé	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	hani	hani	ADV	_	_	4	advmod	_	_
+3	énâštâ	énâštâ	NOUN	_	Number=Sing	4	obj	_	_
+4	nakérdéma	kardan	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 35
+# text = Taš =ê ēmâ bélēz bélēz Ø , taš =ê šémâ kur ü kélēz Ø .
+# gloss = fire=EZ	we.1PL.POSS 	blazing	blazing	COP.3SG fire=EZ	you.2PL.POSS blind 	and 	extinguished	COP.3SG
+# translation = Our fire is bright and blazing, (but) your fire is blind and extinguished.
+# original_text = .آتش ما فروزان و شعله‌ور است (اما) آتش شما کور و خاموش است
+1	Taš	Taš	NOUN	_	Number=Sing	6	nsubj	_	_
+2	=ê	=ê	PART	_	_	1	case	_	_
+3	ēmâ	ēmâ	PRON	_	Number=Plur|Person=1|PronType=Prs	1	nmod	_	_
+4	bélēz	bélēz	ADJ	_	Degree=Pos	6	xcomp	_	_
+5	bélēz	bélēz	ADJ	_	Degree=Pos	4	conj	_	_
+6	Ø	būdan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	taš	taš	NOUN	_	Number=Sing	14	nsubj	_	_
+9	=ê	=ê	PART	_	_	8	case	_	_
+10	šémâ	šémâ	PRON	_	Number=Plur|Person=2|PronType=Prs	8	nmod	_	_
+11	kur	kur	ADJ	_	Degree=Pos	14	xcomp	_	_
+12	ü	ü	CCONJ	_	_	13	cc	_	_
+13	kélēz	kélēz	ADJ	_	Degree=Pos	11	conj	_	_
+14	Ø	būdan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	parataxis	_	_
+15	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 37
+# gloss = constantly 	unnecessarily 	electricity 	consumption 	IPFV-do.PRS.3SG and 	day=even 	light 	IPFV-lit.PRS.3SG
+# translation = He/she constantly and unnecessarily consumes electricity, even turns the lights on during the day.
+# original_text = .مدام و بی‌جهت برق مصرف می‌کند, روز هم چراغ روشن می‌کند
+# text = Hé bēxodi barq̀ masraf mēka , vé ruz =am čérâġ meyiséna .
+1	Hé	hé	ADV	_	_	5	advmod	_	_
+2	bēxodi	bēxodi	ADV	_	_	5	advmod	_	_
+3	barq̀	barq̀	NOUN	_	Number=Sing	5	obj	_	_
+4	masraf	masraf	NOUN	_	Number=Sing	5	compound:lvc	_	_
+5	mēka	kardan	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	vé	vé	ADP	_	ExtPos=ADP	8	case	_	_
+8	ruz	ruz	NOUN	_	Number=Sing	11	obl	_	_
+9	=am	=am	PART	_	_	11	advmod	_	_
+10	čérâġ	čérâġ	NOUN	_	Number=Sing	11	obj	_	_
+11	meyiséna	afruxtan	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	parataxis	_	_
+12	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 38
+# text = Râs möa , pēyâ dēru zēnē nē .
+# gloss = truth 	IPFV-say.PRS.3SG 	man 	lie-hit=INDEF 	COP.NEG.PRS.3SG
+# translation = He tells the truth — he is not a lying man.
+# original_text = .راست می‌گوید, مرد دروغگویی نیست
+1	Râs	râs	NOUN	_	Number=Sing	2	obj	_	_
+2	möa	gōtan	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	pēyâ	pēyâ	NOUN	_	Number=Sing	7	nsubj	_	_
+5	dēru	dēru	NOUN	_	Number=Sing	6	nmod	_	_
+6	zēnē	zēn	ADJ	_	Degree=Pos	7	xcomp	_	_
+7	nē	būdan	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 39
+# text = Asēyawéné féroxt bi vé lūyina =š .
+# gloss = mill-EPEN=OM.ACC 	sell.PST.3SG 	become.PST.COP.3SG 	to 	worker=POSS.3SG
+# translation = He sold the mill and became its worker.
+# original_text = .آسیاب را فروخت و کارگرش شد
+1	Asēyawéné	asēyaw	NOUN	_	Number=Sing	2	obj	_	_
+2	féroxt	fēroxtan	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	bi	šodan	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	_
+4	vé	vé	ADP	_	ExtPos=ADP	5	case	_	_
+5	lūyina	lūyina	NOUN	_	Number=Sing	3	obl	_	_
+6	=š	=š	PRON	_	Number=Sing|Person=3|PronType=Prs	5	nmod:poss	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 40
+# text = Ya haqāt =ê korhâĺa âxéršaré mén =a .
+# gloss = this 	tale=EZ	cousin.male 	end-bad=EZ 	POSS.1SG-EPEN=be.PRS.COP.3SG
+# translation = This is the tale of my ill-fated male cousin.
+# original_text = .این حکایت پسرخالهٔ بدعاقبتِ من است
+1	Ya	ya	DET	_	PronType=Dem	2	det	_	_
+2	haqāt	haqāt	NOUN	_	Number=Sing	7	xcomp	_	_
+3	=ê	=ê	PART	_	_	2	case	_	_
+4	korhâĺa	korhāla	NOUN	_	Number=Sing	2	nmod	_	_
+5	âxéršaré	âxéršar	ADJ	_	Degree=Pos	4	amod	_	_
+6	mén	mén	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	_	_
+7	=a	=a	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 41
+# text = Géz boriyi vé =m ü he seyĺ =m mēkérd .
+# gloss = gaze 	cut.PST.PFV.3SG-EPEN 	to=POSS.1SG 	and 	continuously 	look=EZ=ACC.1SG do.IPFV.PST.3SG
+# translation = He/She had been gazing at me and kept looking at me.
+# original_text = .به من خیره شده بود و مدام نگاهم می‌کرد
+1	Géz	gēz	NOUN	_	Number=Sing	2	compound:lvc	_	_
+2	boriyi	boridan	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	vé	vé	ADP	_	ExtPos=ADP	4	case	_	_
+4	=m	=m	PRON	_	Number=Sing|Person=1|PronType=Prs	2	obj	_	_
+5	ü	ü	CCONJ	_	_	9	cc	_	_
+6	he	he	ADV	_	_	9	advmod	_	_
+7	seyĺ	seyĺ	NOUN	_	Number=Sing	9	obj	_	_
+8	=m	=m	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nmod:poss	_	_
+9	mēkérd	kardan	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 42
+# gloss = we.1PL 	Lor-PL 	mostly 	meat-ACC 	grill-IPFV.PRS-1PL
+# translation = We Lors mostly grill meat.
+# original_text = .ما لرها بیشتر مواقع گوشت را کباب می‌کنیم
+# text = Ēmâ ĺüryâ , beštér gušt =ē möréžnēmo .
+1	Ēmâ	ēmâ	PRON	_	Number=Plur|Person=1|PronType=Prs	7	nsubj	_	_
+2	ĺüryâ	ĺüryâ	NOUN	_	Number=Plur	1	appos	_	_
+3	,	,	PUNCT	_	_	7	punct	_	_
+4	beštér	beštér	ADV	_	_	7	advmod	_	_
+5	gušt	gušt	NOUN	_	Number=Sing	7	obj	_	_
+6	=ē	=ē	PART	_	_	5	case	_	_
+7	möréžnēmo	rēštan	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 43
+# text = Jon =ē =mo vé géĺabérēž ban =a .
+# gloss = life-EZ-1PL.POSS 	to 	meat.chunk-grilled 	bound-be.PRS.COP.3SG
+# translation = Our lives depend on géĺa bérēž (chenjeh kebabs).
+# original_text = .جانمان به کباب چنجه بند است
+1	Jon	Jon	NOUN	_	Number=Sing	7	nsubj	_	_
+2	=ē	=ē	PART	_	_	1	case	_	_
+3	=mo	=mo	PRON	_	Number=Plur|Person=1|Poss=Yes|PronType=Prs	1	nmod:poss	_	_
+4	vé	vé	ADP	_	ExtPos=ADP	5	case	_	_
+5	géĺabérēž	géĺabérēž	NOUN	_	Number=Sing	6	obl	_	_
+6	ban	band	ADJ	_	Degree=Pos	7	xcomp	_	_
+7	=a	būdan	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 44
+# text = Diruz ké mēhâstēm kavaw börēžnēm , bâšo gom biyi .
+# gloss = yesterday 	when 	CONT-want.PST-1PL 	kebab 	SBJV-grill-EPEN-1PL 	wind-hit 	hand.fan 	lost-be.PST.PERF.3SG
+# translation = Yesterday, when we wanted to make kebabs, the hand fan was missing.
+# original_text = .دیروز که می‌خواستیم کباب درست کنیم, بادبزن گم شده بود
+1	Diruz	diruz	ADV	_	_	3	advmod	_	_
+2	ké	ké	SCONJ	_	_	3	mark	_	_
+3	mēhâstēm	xāstan	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	9	advcl	_	_
+4	kavaw	kavaw	NOUN	_	Number=Sing	5	obj	_	_
+5	börēžnēm	rēštan	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	3	ccomp	_	_
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	bâšo	bâšo	NOUN	_	Number=Sing	9	nsubj	_	_
+8	gom	gom	ADJ	_	Degree=Pos	9	xcomp	_	_
+9	biyi	būdan	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 45
+# text = Vâ yé tiptapi taš dürés kérdēm .
+# gloss = with 	one 	effort-INDEF 	fire 	hard 	do.PST-1PL
+# translation = We managed to get the fire going with some effort.
+# original_text = .با یک سختی آتش درست کردیم
+1	Vâ	vâ	ADP	_	ExtPos=ADP	3	case	_	_
+2	yé	yé	DET	_	Definite=Ind|NumType=Card|PronType=Art	3	det	_	_
+3	tiptapi	tiptap	NOUN	_	Number=Sing	6	obl	_	_
+4	taš	taš	NOUN	_	Number=Sing	6	obj	_	_
+5	dürés	dürés	ADJ	_	Degree=Pos	6	compound:lvc	_	_
+6	kérdēm	kardan	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 46
+# text = Héké mēr =ām dâšt kavâw mörēšt , mé =am rēho kaném .
+# gloss = while 	husband-POSS.1SG 	have.PST-3SG 	kebab 	PROG-grill.PST.3SG 	PRON.1SG-also 	basil 	pick.PST-1SG
+# translation = While my husband was making kebabs, I picked basil.
+# original_text = .زمانی که شوهرم داشت کباب درست می‌کرد, من هم ریحان چیدم
+1	Héké	héké	ADV	_	_	6	mark	_	_
+2	mēr	mēr	NOUN	_	Number=Sing	6	nsubj	_	_
+3	=ām	=ām	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	_
+4	dâšt	dāštan	AUX	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	aux	_	_
+5	kavâw	kavâw	NOUN	_	Number=Sing	6	obj	_	_
+6	mörēšt	rēštan	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	advcl	_	_
+7	,	,	PUNCT	_	_	11	punct	_	_
+8	mé	mé	PRON	_	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
+9	=am	=am	ADV	_	_	11	advmod	_	_
+10	rēho	rēho	NOUN	_	Number=Sing	11	obj	_	_
+11	kaném	kandan	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 47
+# text = Vé =š gotem ː ū čan six xu nöréšténâna .
+# gloss = to-POSS.3SG 	say-PST.1SG 	that 	some 	skewer 	well 	NEG-grill-3PL-PRES.PERF
+# translation = I told him: Those few skewers aren't properly grilled.
+# original_text = .به او گفتم: آن چند سیخ خوب برشته نشده‌اند
+1	Vé	Vé	ADP	_	ExtPos=ADP	2	case	_	_
+2	=š	=š	PRON	_	Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
+3	gotem	goftan	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	ː	ː	PUNCT	_	_	9	punct	_	_
+5	ū	ū	DET	_	PronType=Dem	7	det	_	_
+6	čan	čan	DET	_	PronType=Dem	7	det	_	_
+7	six	six	NUM	_	Number=Plur	9	nsubj	_	_
+8	xu	xu	ADV	_	_	9	advmod	_	_
+9	nöréšténâna	rēštan	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	_
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 48
+# text = Bâq̀inē xu börēž ! tün tün baĺérnéšo !
+# gloss = rest-ACC 	well 	grill-IMP.2SG 	quickly	quickly	turn-IMP-EPEN-OBJ.3PL
+# translation = Grill the rest well! Keep turning them constantly!
+# original_text = !بقیه را خوب برشته کن! تندتند برگردانِشان
+1	Bâq̀inē	Bâq̀i	NOUN	_	Number=Sing	3	obj	_	_
+2	xu	xu	ADV	_	_	3	advmod	_	_
+3	börēž	rēštan	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
+4	!	!	PUNCT	_	_	7	punct	_	_
+5	tün	tün	ADV	_	_	7	advmod	_	_
+6	tün	tün	ADV	_	_	7	advmod	_	_
+7	baĺérnéšo	bālérnēšan	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	3	conj	_	_
+8	!	!	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 49
+# text = Bay ét nēyâ , ratém ĺéfé joma tün =ē ēsam .
+# gloss = bad-POSS.2SG 	NEG-come.PRS.SBJV.3SG 	go-PST.1SG 	pair-EZ	shirt 	2SG.POSS-ACC 	buy-PST.1SG
+# translation = Hope you don’t mind — I went and got a twin to your shirt.
+# original_text = .بدت نیاید, رفتم جفت پیراهن تو را خریدم
+1	Bay	Bay	NOUN	_	Number=Sing	3	obj	_	_
+2	ét	=ét	PRON	_	Number=Sing|Person=2|Poss=Yes|PronType=Prs	1	nmod:poss	_	_
+3	nēyâ	âmâdan	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=2|Polarity=Neg|VerbForm=Fin|Voice=Act	10	advcl	_	_
+4	,	,	PUNCT	_	_	10	punct	_	_
+5	ratém	ratém	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	10	parataxis	_	_
+6	ĺéfé	ĺéfé	NOUN	_	_	7	nmod	_	_
+7	joma	joma	NOUN	_	Number=Sing	10	obj	_	_
+8	tün	tün	PRON	_	Number=Sing|Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	_	_
+9	=ē	=ē	PART	_	_	8	case	_	_
+10	ēsam	esâdan	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+11	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 50
+# text = Maryam ü Mina ĺéfon ân , amâ hič vâ yak nēmöran .
+# gloss = Maryam	and 	Mina 	twins-be.PRS.COP.3PL 	but 	at.all 	with 	each.other 	NEG-resemble-3PL
+# translation = Maryam and Mina are twins, but they don’t look alike at all.
+# original_text = .مریم و مینا دوقلو هستند, اما هیچ شبیه یکدیگر نیستند
+1	Maryam	Maryam	PROPN	_	Number=Sing	5	nsubj	_	_
+2	ü	ü	CCONJ	_	_	3	cc	_	_
+3	Mina	Mina	PROPN	_	Number=Sing	1	conj	_	_
+4	ĺéfon	ĺéfon	ADJ	_	Degree=Pos	5	xcomp	_	_
+5	ân	būdan	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	,	,	PUNCT	_	_	11	punct	_	_
+7	amâ	amâ	CCONJ	_	_	11	cc	_	_
+8	hič	hič	ADV	_	Polarity=Neg	11	advmod	_	_
+9	vâ	vâ	ADP	_	ExtPos=ADP	10	case	_	_
+10	yak	yak	PRON	_	PronType=Rcp	11	obl	_	_
+11	nēmöran	ratén	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	_
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 51
+# text = Čanē xu mövâzan !
+# gloss = how 	well 	CONT-dance-3PL
+# translation = How well they dance!
+# original_text = !چقدر خوب می‌رقصند
+1	Čanē	čanē	ADV	_	_	3	advmod	_	_
+2	xu	xu	ADV	_	_	3	advmod	_	_
+3	mövâzan	vâzandan	VERB	_	Aspect=Prog|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	!	!	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 52
+# text = Dé zuré asabâniyat lóyâ =š omân dé bâxté .
+# gloss = from 	intensity=EZ 	anger 		lip-PL=POSS.3SG	come.PST-3PL 	to 	tremble
+# translation = Her lips began to tremble from the intensity of her anger!
+# original_text = .از شدت عصبانیت لب‌هایش به لرزه آمدند
+1	Dé	dé	ADP	_	ExtPos=ADP	3	case	_	_
+2	zuré	zur	NOUN	_	Number=Sing	3	nmod	_	_
+3	asabâniyat	asabâniyat	NOUN	_	Number=Sing	6	obl	_	_
+4	lóyâ	lóyâ	NOUN	_	Number=Plur	6	nsubj	_	_
+5	=š	=š	PRON	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nmod:poss	_	_
+6	omân	āmadan	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	dé	dé	ADP	_	ExtPos=ADP	8	mark	_	_
+8	bâxté	bâxté	NOUN	_	Number=Sing	6	xcomp	_	_
+9	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 53
+# text = Ēmruz dé tasâdof -é jâda Andiméšk yé nafar košés .
+# gloss = today 	in 	accident=EZ 	road 	Andimeshk 	one 	person 	kill-PASS-PST.3SG
+# translation = One person was killed in an accident on Andimeshk Road today.
+# original_text = .امروز در تصادف جاده اندیمشک یک نفر کشته شد
+1	Ēmruz	èmrūz	ADV	_	_	9	advmod	_	_
+2	dé	dé	ADP	_	ExtPos=ADP	3	case	_	_
+3	tasâdof	tasâdof	NOUN	_	Number=Sing	9	obl	_	_
+4	-é	-é	PART	_	_	5	case	_	_
+5	jâda	jâda	NOUN	_	Number=Sing	3	nmod	_	_
+6	Andiméšk	Andiméšk	PROPN	_	_	5	nmod	_	_
+7	yé	yé	NUM	_	NumType=Card	8	nummod	_	_
+8	nafar	nafar	NOUN	_	Number=Sing	9	nsubj:pass	_	_
+9	košés	koštan	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 54
+# gloss = when 	world 		with=POSS.2SG 	NEG-build.PST.IPFV-3SG 	you.2SG	with=POSS.3SG 	IMP-build.2SG
+# translation = When the world doesn't cooperate with you, go along with it instead!
+# original_text = !زمانی که روزگار با تو نساخت, تو با آن بساز
+# text = Heké ruzégâr vâ =t nasâxt , tü vâ =š basâz !
+1	Heké	heké	ADV	_	_	5	mark	_	_
+2	ruzégâr	ruzégâr	NOUN	_	Number=Sing	5	nsubj	_	_
+3	vâ	vâ	ADP	_	ExtPos=ADP	5	obl	_	_
+4	=t	=t	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nmod:poss	_	_
+5	nasâxt	sâxtan	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	10	advcl	_	_
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	tü	tü	PRON	_	Number=Sing|Person=2|PronType=Prs	10	nsubj	_	_
+8	vâ	vâ	ADP	_	ExtPos=ADP	10	obl	_	_
+9	=š	=š	PRON	_	Number=Sing|Person=3|PronType=Prs	8	nmod:poss	_	_
+10	basâz	sâxtan	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+11	!	!	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 55
+# text = Yéno q̀ölé sü ü ēvâra =šo yakē nē .
+# gloss = these.DEM.PL 	speech=EZ	morning	and	evening=POSS.3PL	one	NEG-be.PRS.COP.3SG
+# translation = These people say different things in the morning and in the evening.
+# original_text = اینها حرف صبح و غروبشان یکی نیست. (بر سر قول و وعده خود نمی‌مانند.)
+1	Yéno	yéno	PRON	_	Number=Plur|PronType=Dem	2	nmod	_	_
+2	q̀ölé	q̀öl	NOUN	_	Number=Sing	8	nsubj	_	_
+3	sü	sü	NOUN	_	Number=Sing	2	nmod	_	_
+4	ü	ü	CCONJ	_	_	5	cc	_	_
+5	ēvâra	ēvâr	NOUN	_	Number=Sing	3	conj	_	_
+6	=šo	=šo	PRON	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	_	_
+7	yakē	yak	ADJ	_	Degree=Pos	8	xcomp	_	_
+8	nē	būdan	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 56
+# translation = This hospital was built thirty years ago.
+# original_text = .این بیمارستان سی سال پیش ساخته شده است
+# text = I bimâréstan si sâlé pēš sâxtésa .
+1	I	i	DET	_	PronType=Dem	2	det	_	_
+2	bimâréstan	bimâréstan	NOUN	_	Number=Sing	6	nsubj:pass	_	_
+3	si	si	NUM	_	NumType=Card	4	nummod	_	_
+4	sâlé	sâl	NOUN	_	Number=Sing	6	obl	_	_
+5	pēš	pēš	ADP	_	ExtPos=ADP	4	case	_	_
+6	sâxtésa	sâxtan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 57
+# gloss = this.year=also	renovation	and	equipment	become-AUX.PASS-PRES.PERF.3SG
+# translation = This year as well, (the hospital) has been renovated and equipped.
+# original_text = .امسال هم (بیمارستان) بازسازی و تجهیز شده است
+# text = Ēmsâlam bâzsâzi ü tajhiz biya .
+1	Ēmsâlam	ēmsāl	ADV	_	_	5	advmod	_	_
+2	bâzsâzi	bâzsâzi	NOUN	_	Number=Sing	5	compound:lvc	_	_
+3	ü	ü	CCONJ	_	_	4	cc	_	_
+4	tajhiz	tajhiz	NOUN	_	Number=Sing	2	conj	_	_
+5	biya	šodan / būdan	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 58
+# gloss = butter=ACC	put-PST.PFV-3PL	front-EZ	sun	melt-INTRZ-PST.PFV-3SG
+# translation = The butter has been left in the sun and has melted.
+# original_text = .کره را جلوی آفتاب گذاشته‌اند, آب شده است
+# text = Kérané hēšténa varé aftâw , tâwésa .
+1	Kérané	kéra	NOUN	_	Number=Sing	2	nsubj:pass	_	_
+2	hēšténa	hēštén	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	varé	var	ADP	_	ExtPos=ADP	4	case	_	_
+4	aftâw	aftâw	NOUN	_	Number=Sing	2	obl	_	_
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	tâwésa	wâšodan	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 59
+# text = Nöhalmona či mélâkatē vém déromâ , zartélâq̀ém kérd .
+# translation = Suddenly, like a genie, he appeared before me and scared me.
+# original_text = .یکدفعه و ناگهانی مثل جنی بر من ظاهر شد و ترساندم
+1	Nöhalmona	nöhalmona	ADV	_	_	5	advmod	_	_
+2	či	či	ADP	_	ExtPos=ADP	3	case	_	_
+3	mélâkatē	mélâkat	NOUN	_	Number=Sing	5	obl	_	_
+4	vém	vém	ADP	_	Number=Sing|Person=1|PronType=Prs	5	obl	_	_
+5	déromâ	dérōmâdan	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	zartélâq̀ém	zartélâq	NOUN	_	Number=Sing	8	obj	_	_
+8	kérd	kérdan	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	_
+9	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 60
+# translation = The spectators are the champions!
+# original_text = تماشاچی پهلوان است. (معادل «کنار گود نشسته و می‌گوید لِنگش کن!»)
+# text = Seĺké palévon =a .
+1	Seĺké	Seĺké	NOUN	_	Number=Plur	3	nsubj	_	_
+2	palévon	palévon	NOUN	_	Number=Sing	3	xcomp	_	_
+3	=a	būdan	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 61
+# translation = I fell so hard that I thought my leg was broken.
+# original_text = .چنان با شدت زمین خوردم (که) گمان کردم پایم شکست
+# text = Čéno vé zavzrd zénésém dé zémi , marésém pâ =m éškés .
+1	Čéno	čéno	ADV	_	_	4	advmod	_	_
+2	vé	vé	ADP	_	ExtPos=ADP	3	case	_	_
+3	zavzrd	zavzrd	NOUN	_	Number=Sing	4	obl	_	_
+4	zénésém	zénēštan	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	dé	dé	ADP	_	ExtPos=ADP	6	case	_	_
+6	zémi	zémi	NOUN	_	Number=Sing	4	obl	_	_
+7	,	,	PUNCT	_	_	4	punct	_	_
+8	marésém	maréštan	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	4	ccomp	_	_
+9	pâ	pâ	NOUN	_	Number=Sing	11	nsubj	_	_
+10	=m	=m	PRON	_	Number=Sing|Person=1|PronType=Prs	9	nmod:poss	_	_
+11	éškés	ēškēstan	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	ccomp	_	_
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 62
+# translation = The river is filled with turtles, crabs, frogs, and baby snakes.
+# original_text = رودخانه پر شده است از لاک‌پشت و خرچنگ و قورباغه و بچه‌مار.
+# text = Gélâl por biya dé kēsal ü kéržéng̊ ü q̀orvâq ü tila mâr .
+1	Gélâl	gélâl	NOUN	_	Number=Sing	3	nsubj	_	_
+2	por	por	ADJ	_	Degree=Pos	3	xcomp	_	_
+3	biya	šodan	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	dé	dé	ADP	_	ExtPos=ADP	5	case	_	_
+5	kēsal	kēsal	NOUN	_	Number=Sing	3	obl	_	_
+6	ü	ü	CCONJ	_	_	7	cc	_	_
+7	kéržéng̊	kéržéng̊	NOUN	_	Number=Sing	5	conj	_	_
+8	ü	ü	CCONJ	_	_	9	cc	_	_
+9	q̀orvâq	q̀orvâq	NOUN	_	Number=Sing	5	conj	_	_
+10	ü	ü	CCONJ	_	_	12	cc	_	_
+11	tila	tila	NOUN	_	Number=Sing	12	compound	_	_
+12	mâr	mâr	NOUN	_	Number=Sing	5	conj	_	_
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 63
+# translation = Can you give me the scissors?
+# original_text = قیچی را به من می‌دهی؟
+# text = Q̀ēči né vé =m mēyi ?
+1	Q̀ēči	qeči	NOUN	_	Number=Sing	5	obj	_	_
+2	né	né	PART	_	_	1	case	_	_
+3	vé	vé	ADP	_	ExtPos=ADP	4	case	_	_
+4	=m	=m	PRON	_	Number=Sing|Person=1|PronType=Prs	5	iobj	_	_
+5	mēyi	dādan	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	?	?	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 64
+# translation = No, I need them (scissors).
+# original_text = .نه, لازمش دارم (قیچی را لازم دارم)
+# text = Na , hâ vé das =ém .
+1	Na	na	PART	_	_	3	discourse	_	_
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	hâ	būdan	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	vé	vé	ADP	_	ExtPos=ADP	5	case	_	_
+5	das	das	NOUN	_	Number=Sing	3	obl	_	_
+6	=ém	=ém	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nmod:poss	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 65
+# translation = If I had studied too, my life wouldn't be like this.
+# original_text = .من هم اگر درس خوانده بودم, این روزگارم نبود
+# text = Mé ham a dars bahanimé , ya ruzégâr =ém névi .
+1	Mé	mé	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+2	ham	ham	ADV	_	_	1	advmod	_	_
+3	a	a	SCONJ	_	_	5	mark	_	_
+4	dars	dars	NOUN	_	Number=Sing	5	obj	_	_
+5	bahanimé	hundan	VERB	_	Aspect=Imp|Mood=Opt|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	10	advcl	_	_
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	ya	ya	DET	_	PronType=Dem	8	det	_	_
+8	ruzégâr	ruzégâr	NOUN	_	Number=Sing	10	nsubj	_	_
+9	=ém	=ém	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nmod:poss	_	_
+10	névi	būdan	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	0	root	_	_
+11	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 66
+# translation = If you had left early, you wouldn’t have gotten stuck in traffic!
+# original_text = !اگر زود راه می‌افتادی, به ترافیک نمی‌خوردی
+# text = A zi böftâyité vé ra , vé térâfic némēhardi !
+1	A	a	SCONJ	_	_	3	mark	_	_
+2	zi	zi	ADV	_	_	3	advmod	_	_
+3	böftâyité	öftâdan	VERB	_	Aspect=Perf|Mood=Opt|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	9	advcl	_	_
+4	vé	vé	ADP	_	ExtPos=ADP	5	case	_	_
+5	ra	ra	NOUN	_	Number=Sing	9	compound:lvc	_	_
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	vé	vé	ADP	_	ExtPos=ADP	8	case	_	_
+8	térâfic	térâfic	NOUN	_	Number=Sing	9	obl	_	_
+9	némēhardi	hardan	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+10	!	!	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 67
+# translation = Look, the baby rolled over again.
+# original_text = .ببین! بچه بازهم غلت خورد
+# text = Seyko ! bača ham péĺés .
+1	Seyko	seylkéerdan	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	5	discourse	_	_
+2	!	!	PUNCT	_	_	5	punct	_	_
+3	bača	bača	NOUN	_	Number=Sing	5	nsubj	_	_
+4	ham	ham	ADV	_	_	5	advmod	_	_
+5	péĺés	pélésan	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 68
+# translation = The baby keeps rolling onto his left side.
+# original_text = .بچه مدام روی دست چپش غلت می‌خورَد
+# text = Bača hé vé ri das =é čap =éš mēpéĺya .
+1	Bača	bača	NOUN	_	Number=Sing	9	nsubj	_	_
+2	hé	hé	ADV	_	_	9	advmod	_	_
+3	vé	vé	ADP	_	ExtPos=ADP	4	case	_	_
+4	ri	ri	NOUN	_	Number=Sing	9	obl	_	_
+5	das	das	NOUN	_	Number=Sing	4	nmod	_	_
+6	=é	=é	PART	_	_	5	case	_	_
+7	čap	čap	ADJ	_	Degree=Pos	5	amod	_	_
+8	=éš	=éš	PRON	_	Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	_	_
+9	mēpéĺya	péléndan	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 69
+# translation = Turn him back to the right!
+# original_text = !تو به راست برگردانش
+# text = Tü vé râs bapéĺné =š !
+1	Tü	tü	PRON	_	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+2	vé	vé	ADP	_	ExtPos=ADP	3	case	_	_
+3	râs	râs	NOUN	_	_	4	obl	_	_
+4	bapéĺné	bapéĺné	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
+5	=š	=š	PRON	_	Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+6	!	!	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 70
+# translation = Three plots of this salt pan belong to us.
+# original_text = .سه کرت از این نمکزار مال ماست
+# text = Sé kart dé i némakéĺo hēné ēmân =a .
+1	Sé	sé	NUM	_	NumType=Card	2	nummod	_	_
+2	kart	kart	NOUN	_	Number=Sing	8	nsubj	_	_
+3	dé	dé	ADP	_	ExtPos=ADP	5	case	_	_
+4	i	i	DET	_	PronType=Dem	5	det	_	_
+5	némakéĺo	némakéĺo	NOUN	_	Number=Sing	2	nmod	_	_
+6	hēné	hēné	NOUN	_	Number=Sing	2	nmod:poss	_	_
+7	ēmân	ēmân	PRON	_	Number=Plur|Person=1|PronType=Prs	6	nmod:poss	_	_
+8	=a	būdan	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 71
+# translation = I have chills and I'm sneezing. It seems like I've caught a cold.
+# original_text = .لرز دارم و عطسه می‌کنم. مثل اینکه سرما خورده‌ام
+# text = Dawyiča hâ vé =m ü mēkérčéném , mari sarmâ hardéma .
+1	Dawyiča	dawyča	NOUN	_	Number=Sing	2	nsubj	_	_
+2	hâ	būdan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	vé	vé	ADP	_	ExtPos=ADP	4	case	_	_
+4	=m	=m	PRON	_	Number=Sing|Person=1|PronType=Prs	2	obl	_	_
+5	ü	ü	CCONJ	_	_	6	cc	_	_
+6	mēkérčéném	kêrcên	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+7	,	,	PUNCT	_	_	2	punct	_	_
+8	mari	mari	ADV	_	_	10	advmod	_	_
+9	sarmâ	sarmâ	NOUN	_	Number=Sing	10	obj	_	_
+10	hardéma	hardén	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 72
+# translation = My cold has returned too, and I have a fever again.
+# original_text = .سرماخوردگی من هم عود کرده, دوباره تب کردم
+# text = Mé ham vâkat kérdéma , hani tö gérétém .
+1	Mé	mé	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	ham	ham	ADV	_	_	4	advmod	_	_
+3	vâkat	vâkat	NOUN	_	Number=Sing	4	obj	_	_
+4	kérdéma	kérdén	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	hani	hani	ADV	_	_	8	advmod	_	_
+7	tö	tö	NOUN	_	Number=Sing	8	obj	_	_
+8	gérétém	gérétan	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 73
+# translation = May I be sacrificed for you, come sit with me for a few minutes!
+# original_text = !فدایت شوم, بیا چند دقیقه کنارم بنشین
+# text = Sēqa =t bâm bēyâ gérē baši vé tē =m !
+1	Sēqa	Sēqa	NOUN	_	Number=Sing	3	obj	_	_
+2	=t	=t	PRON	_	Number=Sing|Person=2|PronType=Prs	1	nmod:poss	_	_
+3	bâm	bâm	VERB	_	Aspect=Imp|Mood=Opt|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	bēyâ	āmadan	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	3	parataxis	_	_
+5	gérē	gér	NOUN	_	Number=Sing	6	obl:tmod	_	_
+6	baši	nešastan	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	3	parataxis	_	_
+7	vé	vé	ADP	_	ExtPos=ADP	8	case	_	_
+8	tē	tē	NOUN	_	Number=Sing	6	obl	_	_
+9	=m	=m	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nmod:poss	_	_
+10	!	!	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 74
+# translation = Šâzano teased the wool apart, spun it thin, and made bedspreads out of it.
+# original_text = .شاه‌زنان پشم‌ها را از هم باز کرد و نازک رِشت و ماشته‌شان کرد (با آنها رختخواب پیچ درست کرد)
+# text = Šâzano pašmyâ -né gošan ü nâzék réšt ü kérdé =šo mâšta .
+1	Šâzano	Šâzano	PROPN	_	Number=Sing	4	nsubj	_	_
+2	pašmyâ	pašm	NOUN	_	Number=Plur	4	obj	_	_
+3	-né	-né	PART	_	_	2	case	_	_
+4	gošan	gošandan	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	ü	ü	CCONJ	_	_	7	cc	_	_
+6	nâzék	nâzék	ADJ	_	Degree=Pos	7	advmod	_	_
+7	réšt	réštan	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
+8	ü	ü	CCONJ	_	_	9	cc	_	_
+9	kérdé	kérdé	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
+10	=šo	=šo	PRON	_	Number=Plur|Person=3|PronType=Prs	9	obj	_	_
+11	mâšta	mâšta	NOUN	_	Number=Sing	9	obl	_	_
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 75
+# translation = Is the one at the front of the mourning group your brother?
+# original_text = آن که جلوی دسته عزاداری است, برادر توست؟
+# text = Va ké hâ vâ néhâ dassa bérâré tü =a ?
+1	Va	va	PRON	_	PronType=Dem	3	nsubj	_	_
+2	ké	ké	SCONJ	_	_	3	mark	_	_
+3	hâ	būdan	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+4	vâ	vâ	ADP	_	ExtPos=ADP	5	case	_	_
+5	néhâ	néhâ	NOUN	_	Number=Sing	3	obl	_	_
+6	dassa	dassa	NOUN	_	Number=Sing	5	nmod	_	_
+7	bérâré	bérâr	NOUN	_	Number=Sing	9	nsubj	_	_
+8	tü	tü	PRON	_	Number=Sing|Person=2|PronType=Prs	7	nmod:poss	_	_
+9	=a	=a	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+10	?	?	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 76
+# translation = As much as a thirsty person needs water, I have longed to see you.
+# original_text = .به اندازه نیاز تشنه به آب, سخت مشتاق دیدارت بوده‌ام
+# text = Čan awē téšna =t bima !
+1	Čan	čan	ADV	_	_	5	advmod	_	_
+2	awē	awē	NOUN	_	Number=Sing	5	obl	_	_
+3	téšna	téšna	NOUN	_	Number=Sing	5	xcomp	_	_
+4	=t	=t	PRON	_	Number[psor]=Sing|Person[psor]=2|PronType=Prs	3	nmod:poss	_	_
+5	bima	būdan	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	!	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 77
+# translation = Don’t trip! (Careful! Don’t fall!)
+# original_text = زمین نخوری! (نیفتی!)
+# text = Nagéĺyi !
+1	Nagéĺyi	gêlîdan	VERB	_	Mood=Imp|Number=Sing|Person=2|Polarity=Neg|VerbForm=Fin	0	root	_	_
+2	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 78
+# translation = Night fell. (It became night.)
+# original_text = .شب شد
+# text = Bi vé šö .
+1	Bi	šodan	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	vé	vé	ADP	_	ExtPos=ADP	3	case	_	_
+3	šö	šö	NOUN	_	Number=Sing	1	nsubj	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 79
+# translation = He said hello, but he was sullen (kept giving the cold shoulder).
+# original_text = .سلام کرد اما سرسنگین بود
+# text = Sélâm kérd , amâ vé mér bi .
+1	Sélâm	sélām	NOUN	_	Number=Sing	2	obj	_	_
+2	kérd	Kérdén	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	amâ	amâ	CCONJ	_	_	7	cc	_	_
+5	vé	vé	ADP	_	ExtPos=ADP	6	case	_	_
+6	mér	mér	NOUN	_	Number=Sing	7	nsubj	_	_
+7	bi	būdan	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 80
+# translation = The flowers wilted because of the heat.
+# original_text = .گل‌ها به‌خاطر گرما پژمرده شدند
+# text = Golyâka dé garmâ žalmésén .
+1	Golyâka	golyâka	NOUN	_	Number=Plur	4	nsubj	_	_
+2	dé	dé	ADP	_	ExtPos=ADP	3	case	_	_
+3	garmâ	garmâ	NOUN	_	Number=Sing	4	obl	_	_
+4	žalmésén	žaléštan	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 81
+# translation = How cowardly they are!
+# original_text = !چقدر ترسو هستند
+# text = Čanē zalaru =an !
+1	Čanē	čanē	ADV	_	_	2	advmod	_	_
+2	zalaru	zalaru	ADJ	_	Degree=Pos	3	xcomp	_	_
+3	=an	=an	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	!	!	PUNCT	_	_	3	punct	_	_
+
