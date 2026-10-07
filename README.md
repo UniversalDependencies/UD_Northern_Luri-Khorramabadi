@@ -24,12 +24,12 @@ In preparation
 
 # Changelog
 
-* 2026-11-15 v2.18
+* 2026-11-15 v2.19
   * First release in UD
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: UD v2.15
+Data available since: UD v2.19
 License: CC BY-SA 4.0
 Includes text: yes
 Parallel: no
